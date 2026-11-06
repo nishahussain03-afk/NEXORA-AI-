@@ -29,6 +29,9 @@ It provides a simple, interactive, and user-friendly interface where users can c
 - To execute AI model inference locally using Ollama.
 - To reduce dependency on paid cloud-based AI services.
 
+<img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/3f7966bd-b778-481f-a2aa-fc36674eac20" />
+
+
 ## ✨ Key Features
 
 ### 1. Intelligent AI Conversation
